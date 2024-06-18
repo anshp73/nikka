@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "649404346977",
+    "firebase_url": "https://purviewallinone-default-rtdb.firebaseio.com",
+    "project_id": "purviewallinone",
+    "storage_bucket": "purviewallinone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649404346977:android:0f28fd7687db858b073020",
+        "android_client_info": {
+          "package_name": "com.example.fall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvaIfDzFd1sAxF9n_ua1guCqSKEif1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649404346977:android:cd572f0e70baf096073020",
+        "android_client_info": {
+          "package_name": "com.example.findmyglasses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvaIfDzFd1sAxF9n_ua1guCqSKEif1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649404346977:android:4b23494265233a0b073020",
+        "android_client_info": {
+          "package_name": "com.example.jpmc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvaIfDzFd1sAxF9n_ua1guCqSKEif1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649404346977:android:89201cc7dac26a23073020",
+        "android_client_info": {
+          "package_name": "com.example.numberplate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvaIfDzFd1sAxF9n_ua1guCqSKEif1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649404346977:android:43d1346238892c43073020",
+        "android_client_info": {
+          "package_name": "com.example.vuzixapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvaIfDzFd1sAxF9n_ua1guCqSKEif1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649404346977:android:946a8d2793a59751073020",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.criminal_detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvaIfDzFd1sAxF9n_ua1guCqSKEif1fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
